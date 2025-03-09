@@ -1,3 +1,24 @@
+h1 {
+    font-family: 'Playfair Display', serif; /* Police élégante */
+    font-size: 42px; /* Taille du texte */
+    font-weight: 700; /* Gras */
+    color: #00a963b7; /* Rouge foncé, inspiré de Cartier */
+    text-transform: uppercase; /* Majuscules */
+    text-align: center;  /* Centrer le texte */
+    letter-spacing: 3px; /* Espacement des lettres */
+    margin-top: 50px;
+}
+.logo {
+    width: 1px;
+    height: 1px;
+    display: block;
+    margin: auto;
+    text-align: left;
+}
+nav {
+    background-color: #00a963b7; /* Rouge foncé, inspiré de Cartier */
+    padding: 10px 0;
+}
 .hero img {
     width: 100%;
     height: auto;
